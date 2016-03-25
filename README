@@ -1,0 +1,11 @@
+local history (via Sasa Hasan, originated by??), from Aachen, propagandized by me (Jon May)
+
+put the contents of 'localhistory' into your .bashrc (or your .bash_profile? I always forget which. Maybe it's system dependent).
+
+Then a .history file will be created in each directory you have write permission in that you do work in.
+
+use the command 'h' to grep the .history file for commands you may have run.
+
+This isn't perfect but it works for me.
+
+
