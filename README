@@ -1,4 +1,4 @@
-local history (via Sasa Hasan, originated by??), from Aachen, propagandized by me (Jon May)
+local history (via Sasa Hasan, originated by Arne Mauser), from Aachen, propagandized by me (Jon May)
 
 put the contents of 'localhistory' into your .bashrc (or your .bash_profile? I always forget which. Maybe it's system dependent).
 
